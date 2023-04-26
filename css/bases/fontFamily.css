@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Muli-Regular;
+    font-family: Muli-SemiBold;
+    src: url(../../public/fonts/Muli-Regular.ttf) format(ttf);
+    src: url(../../public/fonts/Muli-SemiBold.ttf) format(ttf);
+  }
+  @font-face {
+    font-family: LibreBaskerville;
+    src: url(../../public/fonts/LibreBaskerville-Bold.ttf) format(ttf);
+  }

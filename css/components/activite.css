@@ -1,0 +1,53 @@
+#activite {
+  text-align: center;
+  padding-block: 6rem;
+}
+
+#activite > :is(h1, h2) {
+  margin-bottom: var(--fs-500);
+}
+
+.content-svg {
+  max-width: 760px;
+  margin: 4rem auto 0;
+  display: grid;
+  grid-template-columns: repeat(3, 200px);
+  text-align: center;
+  gap: 5rem;
+}
+.svg {
+  margin-bottom: 1.6875rem;
+}
+.icon {
+  width: 48px;
+  max-width: 50px;
+  max-height: 50px;
+  height: auto;
+  overflow: visible;
+}
+
+@keyframes tubeAnim {
+  to {
+    stroke-dashoffset: 120;
+  }
+}
+@keyframes rotateRame {
+  to {
+    transform: rotateZ(90deg);
+  }
+}
+path.rame {
+  transform-origin: center;
+  animation: rotateRame 2s ease-in-out infinite alternate;
+}
+
+.tube {
+  stroke-dasharray: 60;
+  animation: tubeAnim 2s infinite;
+}
+
+@media (max-width:768px) {
+  .content-svg {
+    grid-template-columns: auto;
+  }
+}
