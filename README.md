@@ -18,7 +18,7 @@ Le site web est composé des fonctionnalités suivantes :
 
 ## Installation
 
-1. Clonez le référentiel Git : `git clone https://github.com/votrenom/votrerepo.git`
+1. Clonez le référentiel Git : `git clone https://github.com/Raharimanana-BJD/NOSY-TANIKELY.git`
 2. Ouvrez le dossier du projet : `cd nom-du-projet`
 3. Installez les dépendances : `npm install`
 
