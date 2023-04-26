@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-  <head>
-    <title><span style="color: #008000">Site Web de Parc Touristique de Nosy Tanikely</span></title>
-  </head>
-  <body>
     <h1><span style="color: #008000">Site Web de Parc Touristique de Nosy Tanikely</span></h1>
     <p>Ce projet a été réalisé pour le cours de HTML/CSS au ENI en Première Année. Le site web de Parc Touristique de Nosy Tanikely est un projet final qui vise à présenter les informations sur le parc et promouvoir les activités touristiques proposées.</p>
     <h2><span style="color: #008000">Description</span></h2>
