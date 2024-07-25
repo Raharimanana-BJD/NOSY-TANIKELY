@@ -1,6 +1,6 @@
 # Site Web de Parc Touristique de Nosy Tanikely
 
-url : https://nosy-nanikely.netlify.app
+url : https://nosy-tanikely.netlify.app
 
 Ce projet a été réalisé pour le cours de HTML/CSS au ENI en Première Année. Le site web de Parc Touristique de Nosy Tanikely est un projet final qui vise à présenter les informations sur le parc et promouvoir les activités touristiques proposées.
 
